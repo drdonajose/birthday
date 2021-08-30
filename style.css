@@ -1,0 +1,43 @@
+img{
+    width:250px;
+    height: 300px;
+    border-style: solid;
+    border-color: maroon;
+    padding: 10px;
+    margin: 8px auto;
+    border-radius: 50%;
+}
+#img1{
+    border-style: solid;
+    border-color: maroon;
+    padding: 10px;
+    width:800px;
+    height: auto;
+   
+}
+body{
+    text-align: center;
+    background:linear-gradient(pink 0%,red 100%);
+}
+#myCarousel
+{
+    background:linear-gradient(rgb(65, 57, 139)0%,red 100%)
+}
+
+#myCarousel img
+{width: 80%;
+    height: 80%;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+        font-size: 50px;
+        font-family: 'MonteCarlo', cursive;
+}
+button{
+    width: 50%;
+    background-color: purple;
+}
